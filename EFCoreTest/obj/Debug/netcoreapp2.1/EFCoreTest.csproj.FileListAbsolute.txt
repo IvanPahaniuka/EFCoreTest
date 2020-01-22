@@ -1,0 +1,11 @@
+D:\Programs\Projects\EFCoreTest\EFCoreTest\bin\Debug\netcoreapp2.1\EFCoreTest.deps.json
+D:\Programs\Projects\EFCoreTest\EFCoreTest\bin\Debug\netcoreapp2.1\EFCoreTest.runtimeconfig.json
+D:\Programs\Projects\EFCoreTest\EFCoreTest\bin\Debug\netcoreapp2.1\EFCoreTest.runtimeconfig.dev.json
+D:\Programs\Projects\EFCoreTest\EFCoreTest\bin\Debug\netcoreapp2.1\EFCoreTest.dll
+D:\Programs\Projects\EFCoreTest\EFCoreTest\bin\Debug\netcoreapp2.1\EFCoreTest.pdb
+D:\Programs\Projects\EFCoreTest\EFCoreTest\obj\Debug\netcoreapp2.1\EFCoreTest.csprojAssemblyReference.cache
+D:\Programs\Projects\EFCoreTest\EFCoreTest\obj\Debug\netcoreapp2.1\EFCoreTest.csproj.CoreCompileInputs.cache
+D:\Programs\Projects\EFCoreTest\EFCoreTest\obj\Debug\netcoreapp2.1\EFCoreTest.AssemblyInfoInputs.cache
+D:\Programs\Projects\EFCoreTest\EFCoreTest\obj\Debug\netcoreapp2.1\EFCoreTest.AssemblyInfo.cs
+D:\Programs\Projects\EFCoreTest\EFCoreTest\obj\Debug\netcoreapp2.1\EFCoreTest.dll
+D:\Programs\Projects\EFCoreTest\EFCoreTest\obj\Debug\netcoreapp2.1\EFCoreTest.pdb
